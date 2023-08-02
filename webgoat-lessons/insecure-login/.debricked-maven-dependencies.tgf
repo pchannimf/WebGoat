@@ -1,0 +1,292 @@
+1262168655 org.owasp.webgoat.lesson:insecure-login:jar:8.2.3-SNAPSHOT
+781103026 org.springframework.boot:spring-boot-starter-test:jar:2.6.1:test
+2050964420 org.springframework.boot:spring-boot-starter:jar:2.6.1:compile
+147663797 org.springframework.boot:spring-boot:jar:2.6.1:compile
+439751089 org.springframework.boot:spring-boot-autoconfigure:jar:2.6.1:compile
+1100926586 org.springframework.boot:spring-boot-starter-logging:jar:2.6.1:compile
+1115434134 ch.qos.logback:logback-classic:jar:1.2.7:compile
+596453359 ch.qos.logback:logback-core:jar:1.2.7:compile
+152834486 org.apache.logging.log4j:log4j-to-slf4j:jar:2.14.1:compile
+1053225969 org.apache.logging.log4j:log4j-api:jar:2.14.1:compile
+503144483 org.slf4j:jul-to-slf4j:jar:1.7.32:compile
+1468374572 jakarta.annotation:jakarta.annotation-api:jar:1.3.5:compile
+1048421579 org.yaml:snakeyaml:jar:1.29:compile
+934117774 org.springframework.boot:spring-boot-test:jar:2.6.1:test
+1093079840 org.springframework.boot:spring-boot-test-autoconfigure:jar:2.6.1:test
+975733206 com.jayway.jsonpath:json-path:jar:2.6.0:test
+1772106148 net.minidev:json-smart:jar:2.4.7:test
+853175535 net.minidev:accessors-smart:jar:2.4.7:test
+1268635527 org.ow2.asm:asm:jar:9.1:test
+893765907 org.slf4j:slf4j-api:jar:1.7.32:compile
+1560339214 jakarta.xml.bind:jakarta.xml.bind-api:jar:2.3.3:provided
+1021071701 jakarta.activation:jakarta.activation-api:jar:1.2.2:provided
+425232550 org.assertj:assertj-core:jar:3.21.0:test
+47110095 org.hamcrest:hamcrest:jar:2.2:test
+1477200907 org.junit.jupiter:junit-jupiter:jar:5.8.1:test
+100984998 org.junit.jupiter:junit-jupiter-api:jar:5.8.1:test
+1539591544 org.opentest4j:opentest4j:jar:1.2.0:test
+792758624 org.junit.platform:junit-platform-commons:jar:1.8.1:test
+353825943 org.apiguardian:apiguardian-api:jar:1.1.2:test
+880176971 org.junit.jupiter:junit-jupiter-params:jar:5.8.1:test
+1293962032 org.junit.jupiter:junit-jupiter-engine:jar:5.8.1:test
+1711329405 org.junit.platform:junit-platform-engine:jar:1.8.1:test
+1141912166 org.mockito:mockito-junit-jupiter:jar:4.0.0:test
+1134231960 org.skyscreamer:jsonassert:jar:1.5.0:test
+204319504 com.vaadin.external.google:android-json:jar:0.0.20131108.vaadin1:test
+1817055696 org.springframework:spring-core:jar:5.3.13:compile
+688426301 org.springframework:spring-jcl:jar:5.3.13:compile
+847568453 org.springframework:spring-test:jar:5.3.13:test
+1401980462 org.xmlunit:xmlunit-core:jar:2.8.3:test
+1338826013 org.springframework.security:spring-security-test:jar:5.6.0:test
+583057596 org.springframework.security:spring-security-core:jar:5.6.0:provided
+916608087 org.springframework.security:spring-security-crypto:jar:5.6.0:provided
+1641289051 org.springframework:spring-aop:jar:5.3.13:compile
+1213794377 org.springframework:spring-beans:jar:5.3.13:compile
+1815672030 org.springframework:spring-context:jar:5.3.13:compile
+1218188770 org.springframework:spring-expression:jar:5.3.13:compile
+153337703 org.springframework.security:spring-security-web:jar:5.6.0:provided
+154723658 org.springframework:spring-web:jar:5.3.13:provided
+571309751 org.owasp.webgoat:webgoat-container:jar:8.2.3-SNAPSHOT:provided
+169237521 org.springframework.boot:spring-boot-starter-undertow:jar:2.6.1:provided
+517608115 io.undertow:undertow-core:jar:2.2.12.Final:provided
+1342613143 org.jboss.xnio:xnio-api:jar:3.8.4.Final:provided
+423072486 org.wildfly.common:wildfly-common:jar:1.5.2.Final:provided
+570008325 org.wildfly.client:wildfly-client-config:jar:1.0.1.Final:provided
+1878553091 org.jboss.xnio:xnio-nio:jar:3.8.4.Final:provided
+179258229 org.jboss.threads:jboss-threads:jar:3.1.0.Final:provided
+791302244 io.undertow:undertow-servlet:jar:2.2.12.Final:provided
+1135030031 io.undertow:undertow-websockets-jsr:jar:2.2.12.Final:provided
+1877161234 jakarta.servlet:jakarta.servlet-api:jar:4.0.4:provided
+531068784 jakarta.websocket:jakarta.websocket-api:jar:1.1.2:provided
+1660136848 org.springframework.boot:spring-boot-starter-web:jar:2.6.1:provided
+416692630 org.springframework.boot:spring-boot-starter-json:jar:2.6.1:provided
+1852560443 com.fasterxml.jackson.core:jackson-databind:jar:2.13.0:provided
+1246962289 com.fasterxml.jackson.core:jackson-annotations:jar:2.13.0:provided
+900958598 com.fasterxml.jackson.core:jackson-core:jar:2.13.0:provided
+469765167 com.fasterxml.jackson.datatype:jackson-datatype-jdk8:jar:2.13.0:provided
+746244504 com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.13.0:provided
+2137601740 com.fasterxml.jackson.module:jackson-module-parameter-names:jar:2.13.0:provided
+1455386398 org.springframework:spring-webmvc:jar:5.3.13:provided
+1254252690 org.springframework.boot:spring-boot-starter-actuator:jar:2.6.1:provided
+814630491 org.springframework.boot:spring-boot-actuator-autoconfigure:jar:2.6.1:provided
+115857872 org.springframework.boot:spring-boot-actuator:jar:2.6.1:provided
+722305421 io.micrometer:micrometer-core:jar:1.8.0:provided
+1913827982 org.hdrhistogram:HdrHistogram:jar:2.1.12:provided
+812420617 org.latencyutils:LatencyUtils:jar:2.0.3:provided
+142473357 org.flywaydb:flyway-core:jar:8.0.4:provided
+1329271270 org.asciidoctor:asciidoctorj:jar:2.5.2:provided
+685399117 org.asciidoctor:asciidoctorj-api:jar:2.5.2:provided
+2089976729 org.jruby:jruby:jar:9.2.17.0:provided
+466396438 org.jruby:jruby-core:jar:9.2.17.0:provided
+216998824 com.github.jnr:jnr-netdb:jar:1.2.0:provided
+1982672460 com.github.jnr:jnr-enxio:jar:0.32.3:provided
+508294491 com.github.jnr:jnr-unixsocket:jar:0.38.5:provided
+1615923089 com.github.jnr:jnr-posix:jar:3.1.4:provided
+366381648 com.github.jnr:jnr-constants:jar:0.10.1:provided
+169249256 com.github.jnr:jffi:jar:1.3.1:provided
+1270236380 com.github.jnr:jffi:jar:native:1.3.1:provided
+598978484 org.jruby.joni:joni:jar:2.1.31:provided
+35005848 org.jruby.jcodings:jcodings:jar:1.0.46:provided
+1022473723 org.jruby:dirgra:jar:0.3:provided
+1167627805 com.headius:invokebinder:jar:1.11:provided
+2078826261 com.headius:options:jar:1.4:provided
+1214357269 com.jcraft:jzlib:jar:1.1.3:provided
+2031003023 com.martiansoftware:nailgun-server:jar:0.9.1:provided
+2024275149 joda-time:joda-time:jar:2.10.5:provided
+1091437627 com.headius:backport9:jar:1.8:provided
+97755704 javax.annotation:javax.annotation-api:jar:1.3.2:provided
+167599568 org.jruby:jruby-stdlib:jar:9.2.17.0:provided
+1316719030 com.beust:jcommander:jar:1.72:provided
+2137351070 org.springframework.boot:spring-boot-starter-data-jpa:jar:2.6.1:provided
+1732238376 org.springframework.boot:spring-boot-starter-aop:jar:2.6.1:provided
+80682690 org.aspectj:aspectjweaver:jar:1.9.7:provided
+384500180 org.springframework.boot:spring-boot-starter-jdbc:jar:2.6.1:provided
+1111947524 com.zaxxer:HikariCP:jar:4.0.3:provided
+1526838264 org.springframework:spring-jdbc:jar:5.3.13:provided
+667197268 jakarta.transaction:jakarta.transaction-api:jar:1.3.3:provided
+1777328089 jakarta.persistence:jakarta.persistence-api:jar:2.2.3:provided
+471110969 org.hibernate:hibernate-core:jar:5.6.1.Final:provided
+1247570736 antlr:antlr:jar:2.7.7:provided
+1231119120 org.jboss:jandex:jar:2.2.3.Final:provided
+1592225010 org.hibernate.common:hibernate-commons-annotations:jar:5.1.2.Final:provided
+1717737290 org.glassfish.jaxb:jaxb-runtime:jar:2.3.5:provided
+1338926429 org.glassfish.jaxb:txw2:jar:2.3.5:provided
+234223191 com.sun.istack:istack-commons-runtime:jar:3.0.12:provided
+1754303463 com.sun.activation:jakarta.activation:jar:1.2.2:provided
+448432504 org.springframework.data:spring-data-jpa:jar:2.6.0:provided
+644015103 org.springframework.data:spring-data-commons:jar:2.6.0:provided
+76017194 org.springframework:spring-orm:jar:5.3.13:provided
+1747223278 org.springframework:spring-tx:jar:5.3.13:provided
+639313883 org.springframework:spring-aspects:jar:5.3.13:provided
+391595516 org.apache.commons:commons-lang3:jar:3.12.0:provided
+739905410 org.springframework.boot:spring-boot-starter-security:jar:2.6.1:provided
+1625676573 org.springframework.security:spring-security-config:jar:5.6.0:provided
+524225829 org.springframework.boot:spring-boot-starter-thymeleaf:jar:2.6.1:provided
+854246299 org.thymeleaf:thymeleaf-spring5:jar:3.0.14.RELEASE:provided
+1324399707 org.thymeleaf:thymeleaf:jar:3.0.14.RELEASE:provided
+8633259 org.attoparser:attoparser:jar:2.0.5.RELEASE:provided
+1739770043 org.unbescape:unbescape:jar:1.1.6.RELEASE:provided
+52439501 org.thymeleaf.extras:thymeleaf-extras-java8time:jar:3.0.4.RELEASE:provided
+1224302486 org.thymeleaf.extras:thymeleaf-extras-springsecurity5:jar:3.0.4.RELEASE:provided
+1438317505 org.hsqldb:hsqldb:jar:2.5.2:provided
+616302301 org.owasp.webgoat:webgoat-container:jar:tests:8.2.3-SNAPSHOT:test
+651177414 org.mockito:mockito-core:jar:4.0.0:test
+618120037 net.bytebuddy:byte-buddy:jar:1.11.22:provided
+649154765 net.bytebuddy:byte-buddy-agent:jar:1.11.22:test
+1660891176 org.objenesis:objenesis:jar:3.2:test
+1172737964 org.springframework.boot:spring-boot-starter-validation:jar:2.6.1:compile
+1605410974 org.apache.tomcat.embed:tomcat-embed-el:jar:9.0.55:compile
+1932244125 org.hibernate.validator:hibernate-validator:jar:6.2.0.Final:compile
+1749988512 jakarta.validation:jakarta.validation-api:jar:2.0.2:compile
+430231018 org.jboss.logging:jboss-logging:jar:3.4.2.Final:compile
+1128933904 com.fasterxml:classmate:jar:1.5.1:compile
+1844179384 org.projectlombok:lombok:jar:1.18.22:provided (optional) 
+1880990481 org.apache.commons:commons-exec:jar:1.3:compile
+1340734309 javax.xml.bind:jaxb-api:jar:2.3.1:compile
+1575043618 javax.activation:javax.activation-api:jar:1.2.0:compile
+#
+2050964420 147663797 compile
+2050964420 439751089 compile
+1115434134 596453359 compile
+1100926586 1115434134 compile
+152834486 1053225969 compile
+1100926586 152834486 compile
+1100926586 503144483 compile
+2050964420 1100926586 compile
+2050964420 1468374572 compile
+2050964420 1048421579 compile
+781103026 2050964420 compile
+781103026 934117774 test
+781103026 1093079840 test
+853175535 1268635527 test
+1772106148 853175535 test
+975733206 1772106148 test
+975733206 893765907 compile
+781103026 975733206 test
+1560339214 1021071701 provided
+781103026 1560339214 provided
+781103026 425232550 test
+781103026 47110095 test
+100984998 1539591544 test
+100984998 792758624 test
+100984998 353825943 test
+1477200907 100984998 test
+1477200907 880176971 test
+1293962032 1711329405 test
+1477200907 1293962032 test
+781103026 1477200907 test
+781103026 1141912166 test
+1134231960 204319504 test
+781103026 1134231960 test
+1817055696 688426301 compile
+781103026 1817055696 compile
+781103026 847568453 test
+781103026 1401980462 test
+1262168655 781103026 test
+583057596 916608087 provided
+583057596 1641289051 compile
+583057596 1213794377 compile
+583057596 1815672030 compile
+583057596 1218188770 compile
+1338826013 583057596 provided
+153337703 154723658 provided
+1338826013 153337703 provided
+1262168655 1338826013 test
+1342613143 423072486 provided
+1342613143 570008325 provided
+517608115 1342613143 provided
+517608115 1878553091 provided
+517608115 179258229 provided
+169237521 517608115 provided
+169237521 791302244 provided
+169237521 1135030031 provided
+169237521 1877161234 provided
+169237521 531068784 provided
+571309751 169237521 provided
+1852560443 1246962289 provided
+1852560443 900958598 provided
+416692630 1852560443 provided
+416692630 469765167 provided
+416692630 746244504 provided
+416692630 2137601740 provided
+1660136848 416692630 provided
+1660136848 1455386398 provided
+571309751 1660136848 provided
+814630491 115857872 provided
+1254252690 814630491 provided
+722305421 1913827982 provided
+722305421 812420617 provided
+1254252690 722305421 provided
+571309751 1254252690 provided
+571309751 142473357 provided
+1329271270 685399117 provided
+466396438 216998824 provided
+466396438 1982672460 provided
+466396438 508294491 provided
+466396438 1615923089 provided
+466396438 366381648 provided
+466396438 169249256 provided
+466396438 1270236380 provided
+466396438 598978484 provided
+466396438 35005848 provided
+466396438 1022473723 provided
+466396438 1167627805 provided
+466396438 2078826261 provided
+466396438 1214357269 provided
+466396438 2031003023 provided
+466396438 2024275149 provided
+466396438 1091437627 provided
+466396438 97755704 provided
+2089976729 466396438 provided
+2089976729 167599568 provided
+1329271270 2089976729 provided
+1329271270 1316719030 provided
+571309751 1329271270 provided
+1732238376 80682690 provided
+2137351070 1732238376 provided
+384500180 1111947524 provided
+384500180 1526838264 provided
+2137351070 384500180 provided
+2137351070 667197268 provided
+2137351070 1777328089 provided
+471110969 1247570736 provided
+471110969 1231119120 provided
+471110969 1592225010 provided
+1717737290 1338926429 provided
+1717737290 234223191 provided
+1717737290 1754303463 provided
+471110969 1717737290 provided
+2137351070 471110969 provided
+448432504 644015103 provided
+448432504 76017194 provided
+448432504 1747223278 provided
+2137351070 448432504 provided
+2137351070 639313883 provided
+571309751 2137351070 provided
+571309751 391595516 provided
+739905410 1625676573 provided
+571309751 739905410 provided
+1324399707 8633259 provided
+1324399707 1739770043 provided
+854246299 1324399707 provided
+524225829 854246299 provided
+524225829 52439501 provided
+571309751 524225829 provided
+571309751 1224302486 provided
+571309751 1438317505 provided
+1262168655 571309751 provided
+1262168655 616302301 test
+651177414 618120037 provided
+651177414 649154765 test
+651177414 1660891176 test
+1262168655 651177414 test
+1172737964 1605410974 compile
+1932244125 1749988512 compile
+1932244125 430231018 compile
+1932244125 1128933904 compile
+1172737964 1932244125 compile
+1262168655 1172737964 compile
+1262168655 1844179384 provided
+1262168655 1880990481 compile
+1340734309 1575043618 compile
+1262168655 1340734309 compile
